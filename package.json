@@ -1,0 +1,11 @@
+{
+  "name": "servidoraula",
+  "version": "1.0.0",
+  "description": "Servidor de teste para aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
